@@ -2,6 +2,8 @@
 
 This project demonstrates the use of Principal Component Analysis (PCA) for image compression using the MNIST handwritten digits dataset. The pipeline includes data preprocessing, applying PCA with various numbers of components, visualizing reconstructions, and analyzing compression performance.
 
+**Dataset:** MNIST (handwritten digits, 28x28 grayscale images)
+
 ## Overview
 - **Dataset:** MNIST (handwritten digits, 28x28 grayscale images)
 - **Goal:** Compressing and reconstructing images using PCA, analyzing trade-offs between compression ratio, explained variance, and reconstruction error.
