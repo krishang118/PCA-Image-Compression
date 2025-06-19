@@ -1,4 +1,4 @@
-# PCA-Based Image Compression
+# PCA-based Image Compression
 
 This project demonstrates the use of Principal Component Analysis (PCA) for image compression using the MNIST handwritten digits dataset. The pipeline includes data preprocessing, applying PCA with various numbers of components, visualizing reconstructions, and analyzing compression performance.
 
