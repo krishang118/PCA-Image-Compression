@@ -4,7 +4,7 @@ This project demonstrates the use of Principal Component Analysis (PCA) for imag
 
 ## Overview
 - **Dataset:** MNIST (handwritten digits, 28x28 grayscale images)
-- **Goal:** Compressing and reconstructing images using PCA, analyze trade-offs between compression ratio, explained variance, and reconstruction error.
+- **Goal:** Compressing and reconstructing images using PCA, analyzing trade-offs between compression ratio, explained variance, and reconstruction error.
 
 ## How to Run
 1. Install dependencies:
